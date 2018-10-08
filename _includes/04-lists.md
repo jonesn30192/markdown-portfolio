@@ -1,5 +1,3 @@
-<ul>
-  <li>eat ice cream</li>
-  <li>play video games</li>
-  <li>both</li>
- </ul>
+* eat ice cream
+* play video games
+* both
