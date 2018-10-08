@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>eat ice cream</li>
+  <li>play video games</li>
+  <li>both</li>
+ </ul>
