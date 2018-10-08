@@ -1,2 +1,2 @@
 # Nicholonius' page
-###### yes, this page belongs to several Nicholoniuses
+###### Yes, this page belongs to several Nicholoniuses
